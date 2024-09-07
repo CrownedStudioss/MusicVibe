@@ -1,6 +1,8 @@
 # MusicVibe
 Listen to music in the best experience possible!
 
---- 
+---
 
-Currently not released
+![MusicVibe](MusicVibe.png)
+
+**Currently not released**
